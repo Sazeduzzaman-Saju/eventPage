@@ -112,7 +112,7 @@ label {
 .second-color {
   color: rgba(186, 52, 166, 0.829);
 }
-.fee{
+.fee {
   background-color: rgba(186, 52, 166, 0.829);
   color: white;
 }
@@ -391,7 +391,6 @@ strong {
   border-right: 1px solid #c8c4c4;
   font-size: 15px;
 }
-
 
 .individual-event img {
   padding: 5px;
@@ -2605,13 +2604,13 @@ a {
 .slick-prev:before {
   position: relative;
   top: -15px;
-  right:20px;
+  right: 20px;
 }
 .slick-prev:before {
-  content: '←';
-  font-family: 'Sora' !important;
+  content: "←";
+  font-family: "Sora" !important;
 }
 .slick-next:before {
-  content: '→';
-  font-family: 'Sora' !important;
+  content: "→";
+  font-family: "Sora" !important;
 }
